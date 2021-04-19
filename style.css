@@ -1,0 +1,47 @@
+.principal{
+    background: rgb(100,149,237);
+    padding: 30px
+}
+.Tit1{
+    padding-left: 20px
+}
+
+.Tit2{
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+#banner{
+    width: 100%
+}
+p{
+    text-align: center
+}
+#missao {
+    font-size: 20px
+}
+
+em strong{
+    color: darkkhaki
+}
+
+em {
+    color: darkmagenta
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+}
+.itens{
+    font-style: italic
+}
+.imagembeneficios{
+width: 50%
+}
